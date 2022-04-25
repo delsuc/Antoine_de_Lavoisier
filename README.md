@@ -15,4 +15,4 @@ Authors: *Eline Laurent,
     Marc-André Delsuc,
     and Jean-François Lutz*
 
-*submitted for publication*
+published in  *Comptes Rendus. Chimie* , 2021, **24**, no. 1, p. 69-76 [DOI: 10.5802/crchim.72](https://www.doi.org/10.5802/crchim.72)
